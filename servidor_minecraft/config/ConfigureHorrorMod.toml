@@ -1,0 +1,8 @@
+
+#Global AI Director Spawning & Behavior Settings
+[general]
+	#When true, the Stalker Run variant form will smash straight through any solid block in its way.
+	canStalkerBreakBlocks = true
+	#When true, the Maternal Wraith will smash through blocks when pursuing its target.
+	canMaternalWraithBreakBlocks = true
+
